@@ -1,2 +1,2 @@
 # Hello-World
-First repository
+Checking out how to use GitHub to manage files
